@@ -1,7 +1,9 @@
-RISC-V Model
+Vectre RISC-V Analyer
 ============
 
-This is a python model of the RISC-V ISA. It is intended to be a resource for Python-based automated testing and verification.
+This tool is intended to help the user analyze RISC-V code and develop specifications for the Vectre tool.
+
+This tool also contains a python model of the RISC-V ISA. The model is intended to be a resource for Python-based automated testing and verification.
 It is under development and not very useful yet, but can be used to generate random assembler code.
 
 Documentation: https://riscv-python-model.readthedocs.io/en/latest/
